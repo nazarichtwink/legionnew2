@@ -2713,3 +2713,5 @@
 2025-02-13 03:22:36 | INFO | Git config оновлено
 2025-02-13 03:22:36 | INFO | Створено file_1739445756.py
 2025-02-13 03:22:36 | INFO | Ініціалізація Git репозиторію...
+2025-02-13 03:22:38 | ERROR | Помилка Git: Command '['git', 'push', '-u', 'origin', 'main']' returned non-zero exit status 1.
+2025-02-13 03:22:38 | INFO | Створено file_1739445758.md
